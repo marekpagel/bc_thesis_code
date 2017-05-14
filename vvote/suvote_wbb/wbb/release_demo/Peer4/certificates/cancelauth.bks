@@ -1,0 +1,9 @@
+{
+	"jksPath":"./release_demo/Peer4/certificates/cancelauth.jks",
+	"CancelAuth":{
+		"pubKeyEntry":{
+			"publicKey":"QFVrlZTr5yBlTtK9SXWTiU1Q6dlnfqN7sFL30y0c1RvbNDiZN2wTNDaWHPYEHH2WHVWMIalWFosXnIu1RVDi1bLXQVNwPwCy+aXL0xU4ndQch+YtFpUHjOFhFP7HfiULm7DWtExovL7cBtPiykcE/CfJ4jXAnjeW",
+			"g":"a4wcHoCWdrstsbZcmA7Ga6tDuoJIIOsRJcYSNGiHQhkHWNKBU0PqxRwJuE7lcUpihx1YKYkDqOoIZnonaTpjljEW+WspiQsZZs3IL6Hr5kIU/wiWeCjon4tFNX9M6+B5dMqX/RD4n00e7G5Wez1MHCkn+4QJtRLM"
+		}
+	}
+}

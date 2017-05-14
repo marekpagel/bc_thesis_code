@@ -1,0 +1,6 @@
+[submodule "BFT_SMART/bft_smart_library"]
+	path = BFT_SMART/bft_smart_library
+	url = https://github.com/bft-smart/library.git
+[submodule "vvote/suvote_client"]
+	path = vvote/suvote_client
+	url = https://bitbucket.org/vvote/suvote_client.git

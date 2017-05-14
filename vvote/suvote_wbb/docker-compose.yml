@@ -1,0 +1,38 @@
+version: '2'
+services:
+ peer0:
+  build:
+   context: .
+  container_name: peer0
+  ports:
+   - "9081:9081"
+   - "9091:9091"
+  environment:
+   - PEERNAME=Peer1
+ peer1:
+  build:
+   context: .
+  container_name: peer1
+  ports:
+   - "9082:9082"
+   - "9092:9092"
+  environment:
+   - PEERNAME=Peer2
+ peer2:
+  build:
+   context: .
+  container_name: peer2
+  ports:
+   - "9083:9083"
+   - "9093:9093"
+  environment:
+   - PEERNAME=Peer3
+ peer3:
+  build:
+   context: .
+  container_name: peer3
+  ports:
+   - "9084:9084"
+   - "9094:9094"
+  environment:
+   - PEERNAME=Peer4

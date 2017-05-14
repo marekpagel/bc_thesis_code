@@ -1,0 +1,41 @@
+<configuration debug="false">
+	<!-- sends logs to logback-beagle -->
+	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+		<file>./release_demo/logs/${PEERNAME}_logFile.log</file>
+		<encoder>
+			<pattern>%date %level [%thread] %logger{10} %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="TELEMETRY-FILE" class="ch.qos.logback.core.FileAppender">
+		<file>./release_demo/logs/${PEERNAME}_telemetry.log</file>
+		<encoder>
+			<Pattern>"${PEERNAME}",%msg,"%date","%-5level"%n</Pattern>
+		</encoder>
+	</appender>
+	<appender name="TELEMETRY-WARN" class="ch.qos.logback.core.FileAppender">
+		<filter class="ch.qos.logback.classic.filter.LevelFilter">
+			<level>WARN</level>
+			<onMatch>ACCEPT</onMatch>
+			<onMismatch>DENY</onMismatch>
+		</filter>
+		<file>./release_demo/logs/${PEERNAME}_telemetry_warn.log</file>
+		<encoder>
+			<Pattern>WARN:${PEERNAME},%msg,%date,%-5level%n</Pattern>
+		</encoder>
+	</appender>
+
+	
+
+	<logger name="Telemetry" level="DEBUG" additivity="false">
+		<appender-ref ref="TELEMETRY-FILE" />
+	</logger>
+
+	<logger name="uk.ac.surrey" additivity="true">
+		<appender-ref ref="TELEMETRY-WARN" />
+	</logger>
+
+	<root level="debug">
+		<appender-ref ref="FILE" />
+	</root>
+</configuration>

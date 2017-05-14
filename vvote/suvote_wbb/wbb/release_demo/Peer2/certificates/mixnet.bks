@@ -1,0 +1,37 @@
+{
+	"jksPath":"./release_demo/Peer2/certificates/mixnet.jks",
+	"MixServer3":{
+		"pubKeyEntry":{
+			"publicKey":"Wq16yuIo3a+0ODFuVNVuKGWmQfZbhxAaY3+GecdisZFId1XbpkqG1yaV/0irRzsiYNDza1F31thRAtjwRrvDA3rljyuPgrssfc692Ej4aqclpJWc8b1J/FkqiovZ265QZUqR4R6ubdmBBB8xFbPjoTcN5ziKRFMP",
+			"g":"RtEyKHFObBvN/a45oE6qm066hcEEhBXJ8aVu4uAKG16gMfzPq1DbHzu5v/13Rn4TYodblQpaPmi5UkaBAjDivRRH6Cu23hZT2HLlqNBLHHEt+XK4I7QyycSwOoojIcPyX0C0tEG7lSRqzONRzMnDyx1MMvR+FfWo"
+		}
+		
+	},
+	"MixServer4":{
+		"pubKeyEntry":{
+			"publicKey":"PuRZsAIanYw61TDgqNL/yz8aBJ0LW8XMk7vcXJnXWTZvRO71tqQ+qmMs9d7/pzElB7fMB2BZi6twFr+Sa+yGhsxcOD2Uzog6tNU8IapzzlAAXd35yd6cY/r30BY+yNxdAN4lGCVFJHl/Olcm7jWXCV6CUTOp+Lmz",
+			"g":"JcOaTiFiutMMpSSCjWY/uS0N6nNG5h6FRxUN6WhhSq9Wy6t2Q55lpGexuxaszu+XQ91Tc1xad3OUppc3AhtwR1T8Ir5G7w3Rhcmhd/yENccIO6cbmJ+hAzeJ+pRT6d6N5TsK60HvEc4btMZXkGR0gKlEzOYoJrqC"
+		}
+		
+	},
+	"MixServer5":{
+		"pubKeyEntry":{
+			"publicKey":"PEoT0XPikRdtNDZY8Qv3gYa+xYtUuWTK892ufqzSHzeTWAO40JnJ2gaEfwNilTxxENeJ4HHhGKCYh5vpKruTcwRV/egfy1YZRHIYhq+nQ9wVuv3OWes90XLfoFwVDxYd2r5XtAwEP7PANL3dGdgxd+8PLo9892Kz",
+			"g":"TgDlKX/JnBffVbxsBFwWKxGp6XA95XG+XVCqVvQBK3rqd4rkKCCF+Sa4cUyNmgC9IJKyvWv3/UwtnVY4aogD9J15ag2QiFJvVBtNLSUAohYm2R55OwcqwRJDCeDuXAsGojBIsjL6mahaeqyF/nma0tQW0BY6HBfp"
+		}
+		
+	},
+	"MixServer1":{
+		"pubKeyEntry":{
+			"publicKey":"WFQDsxtyp+f+njE/VXMGplTR3scgEB1u+r/ISO1kOaTIhA4v7Epef1905P8K3W427jvC3M2gQAriQ7DwKRiRa+A2hvn7u6QLdGJ4S9enZXBJcQ12TW04+0Qlw+I4u4xJGPby/ii9TaT2hRKnHByWzvaVA+e7o9xP",
+			"g":"M7KX8e+Z+W6Yapc+5HRTcG4EeskmGZBIW4vUl13FWymwxZfQ7bQHQkw9ZbLcbMHdgqySppephtduVLD6KLrCOQaeVEZyG3xB1Lury+KJNpoy4OvqWrV4zhgLJvRZHD+ihGXjTzic4cEjSxdzdVz/SwNkVJDhF7ta"
+		}
+	},
+	"MixServer2":{
+		"pubKeyEntry":{
+			"publicKey":"TacyrvN2HlWnchJK7vR0REPGz18SuDQD/gXwuuBbt6v7Bk4VGlU1/GFqF9zO+8Q5SbxNokJroFZb7pSEPIaa/2H2cassUCNr6jpLoQm7pnMDORLRpKvtmabyQgdaqVyOFO/phBHmu1zWbgGjgH5+zh/Z49UlBuGc",
+			"g":"U+2v3xtv8R0GLmv0o7HRn/IwPTZmhpmkejlaM9jWaIUBqW6Xy6IAumjvWlErF+vHid+E52aeD+c9U0DmPHHnU8bUD46u/76rfSzm25UFvJ8HoFCooPp7Cnktwft1qI2AeAnZtGdUd0j7MIqaWs0nwtBwfxHr3T42"
+		}
+		
+	}
+}

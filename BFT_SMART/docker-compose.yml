@@ -1,0 +1,34 @@
+version: '2'
+services:
+ peer0:
+  build:
+   context: .
+  container_name: peer0
+  ports:
+   - "11000:11000"
+  environment:
+   - PEERID=0
+ peer1:
+  build:
+   context: .
+  container_name: peer1
+  ports:
+   - "11010:11010"
+  environment:
+   - PEERID=1
+ peer2:
+  build:
+   context: .
+  container_name: peer2
+  ports:
+   - "11020:11020"
+  environment:
+   - PEERID=2
+ peer3:
+  build:
+   context: .
+  container_name: peer3
+  ports:
+   - "11030:11030"
+  environment:
+   - PEERID=3

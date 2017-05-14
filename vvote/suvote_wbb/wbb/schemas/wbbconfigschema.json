@@ -1,0 +1,244 @@
+{
+	"type":"object",
+	"id": "wbbconfig",
+	"required":["certStores","baseEncryptedIds","port","extPort","commitDirectory","messageDigest","uploadDirectory","bufferBound","schemaList","submissionTimeout","liveCheckPOD","commitUploadDirectory","certificateKeyStorePwd","runCommitAt","id","commitTime","max_zip_entry","keyStorePwd","sk1Pwd","certificateKeyStore","pathToSigningKey","electionPublicKey","socketTimeoutMax","publicWBBAddress","uiPort","alias","publicWBBPort","fileUploadTimeout","ballotTimeout","districtConf","sk2Pwd","threshold","signingKeyPwd","address","pathToKeyStore","peers","races","SSLConfig","socketTimeoutInitial","CRLFolder"],
+	"additionalProperties":true,
+	"properties":{
+		"SSLConfig": {
+			"type":"string",
+			"id": "SSLConfig"
+			
+		},
+		"address": {
+			"type":"string",
+			"id": "address"
+			
+		},
+		"alias": {
+			"type":"string",
+			"id": "alias"
+			
+		},
+		"bufferBound": {
+			"type":"number",
+			"id": "bufferBound"
+			
+		},
+		"certificateKeyStorePwd": {
+			"type":"string",
+			"id": "certificateKeyStorePwd"
+			
+		},
+		"certificateKeyStore": {
+			"type":"string",
+			"id": "certificateKeyStore"
+			
+		},
+		"commitDirectory": {
+			"type":"string",
+			"id": "commitDirectory"
+			
+		},
+		"commitTime": {
+			"type":"string",
+			"id": "commitTime"
+			
+		},
+		"commitUploadDirectory": {
+			"type":"string",
+			"id": "commitUploadDirectory"
+			
+		},
+		"districtConf": {
+			"type":"string",
+			"id": "districtConf"
+			
+		},
+		"extPort": {
+			"type":"number",
+			"id": "extPort"
+			
+		},
+		"fileUploadTimeout": {
+			"type":"number",
+			"id": "fileUploadTimeout"
+			
+		},
+		"id": {
+			"type":"string",
+			"id": "id"
+			
+		},
+		"keyStorePwd": {
+			"type":"string",
+			"id": "keyStorePwd"
+			
+		},
+		"max_zip_entry": {
+			"type":"number",
+			"id": "max_zip_entry"
+			
+		},
+		"messageDigest": {
+			"type":"string",
+			"id": "messageDigest"
+			
+		},
+		"pathToKeyStore": {
+			"type":"string",
+			"id": "pathToKeyStore"
+			
+		},
+		"pathToSigningKey": {
+			"type":"string",
+			"id": "pathToSigningKey"
+			
+		},
+		"peers": {
+			"type":"array",
+			"id": "peers",
+			"items":
+				{
+					"type":"object",
+					"id": "peers/0",
+					"properties":{
+						"address": {
+							"type":"string",
+							"id": "peers/0/address"
+							
+						},
+						"id": {
+							"type":"string",
+							"id": "peers/0/id"
+							
+						},
+						"port": {
+							"type":"number",
+							"id": "peers/0/port"
+							
+						}
+					}
+				}
+			
+
+		},
+		"port": {
+			"type":"number",
+			"id": "port"
+			
+		},
+		"runCommitAt": {
+			"type":"string",
+			"id": "runCommitAt"
+			
+		},
+		"schemaList": {
+			"type":"string",
+			"id": "schemaList"
+			
+		},
+		"signingKeyPwd": {
+			"type":"string",
+			"id": "signingKeyPwd"
+			
+		},
+		"sk1Pwd": {
+			"type":"string",
+			"id": "sk1Pwd"
+			
+		},
+		"sk2Pwd": {
+			"type":"string",
+			"id": "sk2Pwd"
+			
+		},
+		"socketTimeoutInitial": {
+			"type":"number",
+			"id": "socketTimeoutInitial"
+			
+		},
+		"socketTimeoutMax": {
+			"type":"number",
+			"id": "socketTimeoutMax"
+			
+		},
+		"submissionTimeout": {
+			"type":"number",
+			"id": "submissionTimeout"
+			
+		},
+		"threshold": {
+			"type":"number",
+			"id": "threshold"
+			
+		},
+		"uiPort": {
+			"type":"number",
+			"id": "uiPort"
+			
+		},
+		"uploadDirectory": {
+			"type":"string",
+			"id": "uploadDirectory"
+			
+		},
+		"ballotTimeout": {
+			"type":"number",
+			"id": "ballotTimeout"
+			
+		},
+		"races": {
+			"type":"array",
+			"id": "races",
+			"items":
+				{
+					"type":"object",
+					"id": "races/0",
+					"properties":{
+						"candidates": {
+							"type":"number",
+							"id": "races/0/candidates"
+						},
+						"id": {
+							"type":"string",
+							"id": "races/0/id"
+							
+						}
+					}
+				}
+			
+
+		},
+		"liveCheckPOD": {
+			"type":"boolean",
+			"id": "liveCheckPOD"
+			
+		},
+		"baseEncryptedIds": {
+			"type":"string",
+			"id": "baseEncryptedIds"
+			
+		},"electionPublicKey": {
+			"type":"string",
+			"id": "electionPublicKey"
+			
+		},"publicWBBAddress": {
+			"type":"string",
+			"id": "publicWBBAddress"
+			
+		},
+		"publicWBBPort": {
+			"type":"number",
+			"id": "publicWBBPort"
+			
+		},"certStores": {
+			"type":"string",
+			"id": "certStores"
+			
+		},"CRLFolder": {
+			"type":"string",
+			"id": "CRLFolder"
+			
+		}
+	}
+}

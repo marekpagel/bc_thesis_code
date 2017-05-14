@@ -1,0 +1,54 @@
+{
+  "peerID": "Peer1",
+  "signature": "MC0CFQCttVVXMB/hsovfQK7jIGHz3wpU3gIUVkPhn20SDHGLGqKwJvKuakw5cx8=",
+  "_uuid": "afec4934-bc61-47d5-9b2a-92543625fa14",
+  "commitID": "18:0",
+  "type": "vote",
+  "serialSig": "JFd8uhOXbwNBOh0qUv/UMRQFwxg0MfsyXXzYQwBOV/nThIUDJ2WXaQ==",
+  "boothID": "TestEVMOne",
+  "serialNo": "TestDeviceOne:2",
+  "_vPrefs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15:1:1:",
+  "commitTime": "18:0",
+  "races": [
+    {
+      "preferences": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "id": "LA"
+    },
+    {
+      "preferences": [
+        "1"
+      ],
+      "id": "LC_ATL"
+    },
+    {
+      "preferences": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "id": "LC_BTL"
+    }
+  ],
+  "district": "Warrandyte",
+  "boothSig": "ChvEwm02BCPxQ0+J38gw6NAi7Ic3jCxVTbjYBikT0j1dG3PsHS+YDQ==",
+  "_fromPeer": "Peer1",
+  "startEVMSig": "UGtHeNV3IHuwdFEfzCnY+n9uHw9rvwFq576L2GxXkkgoUcCO2X9d7g=="
+}

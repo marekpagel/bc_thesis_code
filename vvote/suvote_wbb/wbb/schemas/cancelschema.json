@@ -1,0 +1,63 @@
+{
+	"type":"object",
+	"required":["boothID","boothSig","cancelAuthID","serialNo","serialSig","type","cancelAuthSig","district"],
+	"additionalProperties":true,
+	"id": "#",
+	"properties":{
+		"boothID": {
+			"type":"string",
+			"id": "boothID"
+		},
+		"boothSig": {
+			"type":"string",
+			"id": "boothSig",
+			"pattern":"^(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?$"
+		},
+		"cancelAuthID": {
+			"type":"string",
+			"id": "cancelAuthID"
+		},
+		"cancelAuthSig": {
+			"type":"string",
+			"id": "cancelAuthSig",
+			"pattern":"^(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?$"
+		},
+		"serialNo": {
+			"type":"string",
+			"id": "serialNo",
+			"pattern" : "^[A-Za-z0-9]*:[0-9]{1,7}$"
+		},
+		"serialSig": {
+			"type":["string","array"],
+			"id": "serialSig",
+			"pattern":"^(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?$",
+			"items":{
+					"type":"object",
+					"id": "serialSigs",
+					"additionalProperties":true,
+					"required":["WBBID","WBBSig"],
+					"properties": { 
+						"WBBID": {
+							"type":"string",
+							"id": "WBBID"
+						},
+						"WBBSig": {
+							"type":"string",
+							"id": "WBBSig",
+							"pattern":"^(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?$"
+						}
+					}
+				}
+		
+					
+		},
+		"type": {
+			"type":"string",
+			"id": "type",
+			"enum": ["cancel"]
+		},"district": {
+			"type":"string",
+			"id": "district"
+		}
+	}
+}

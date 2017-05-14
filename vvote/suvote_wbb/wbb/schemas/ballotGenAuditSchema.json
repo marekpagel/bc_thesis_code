@@ -1,0 +1,51 @@
+{
+	"type":"object",
+	"id": "ballotGenAudit",
+	"required":["ballotAuditFile","ballotGenConfig","ballotGenFile","baseEncryptedIds","publicKey","randomnessServerCommits"],
+	"additionalProperties":false,
+	"properties":{
+		"ballotAuditFile": {
+			"type":"string",
+			"id": "ballotAuditFile"
+		},
+		"ballotGenConfig": {
+			"type":"string",
+			"id": "ballotGenConfig"
+		},
+		"ballotGenFile": {
+			"type":"string",
+			"id": "ballotGenFile"
+		},
+		"baseEncryptedIds": {
+			"type":"string",
+			"id": "baseEncryptedIds"
+		},
+		"publicKey": {
+			"type":"string",
+			"id": "publicKey"
+		},
+		"randomnessServerCommits": {
+			"type":"array",
+			"id": "randomnessServerCommits",
+			"items":
+				{
+					"type":"object",
+					"id": "randomnessServerCommits/0",
+					"required":["filePath","serverName"],
+					"additionalProperties":false,
+					"properties":{
+						"filePath": {
+							"type":"string",
+							"id": "randomnessServerCommits/0/filePath"
+						},
+						"serverName": {
+							"type":"string",
+							"id": "randomnessServerCommits/0/serverName"
+						}
+					}
+				}
+			
+
+		}
+	}
+}

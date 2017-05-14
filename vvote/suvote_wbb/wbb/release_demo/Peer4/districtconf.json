@@ -1,0 +1,442 @@
+{
+  "Mulgrave": {
+    "la": 5,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Narre Warren South": {
+    "la": 7,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Lyndhurst": {
+    "la": 7,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Dandenong": {
+    "la": 5,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Mordialloc": {
+    "la": 9,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Cranbourne": {
+    "la": 7,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Mount Waverley": {
+    "la": 7,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Frankston": {
+    "la": 0,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Carrum": {
+    "la": 6,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Clayton": {
+    "la": 5,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Narre Warren North": {
+    "la": 7,
+    "lc_atl": 7,
+    "lc_btl": 24
+  },
+  "Keilor": {
+    "la": 5,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Essendon": {
+    "la": 5,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Footscray": {
+    "la": 0,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Niddrie": {
+    "la": 9,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Pascoe Vale": {
+    "la": 4,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Tarneit": {
+    "la": 4,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Derrimut": {
+    "la": 5,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Altona": {
+    "la": 13,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Yuroke": {
+    "la": 0,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Williamstown": {
+    "la": 0,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "Kororoit": {
+    "la": 5,
+    "lc_atl": 3,
+    "lc_btl": 28
+  },
+  "South Barwon": {
+    "la": 9,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Lowan": {
+    "la": 4,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Polwarth": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Melton": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Ballarat East": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Bellarine": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Ripon": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "South-West Coast": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Ballarat West": {
+    "la": 5,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Geelong": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Lara": {
+    "la": 0,
+    "lc_atl": 2,
+    "lc_btl": 13
+  },
+  "Rodney": {
+    "la": 5,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Swan Hill": {
+    "la": 4,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Macedon": {
+    "la": 8,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Bendigo East": {
+    "la": 9,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Shepparton": {
+    "la": 7,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Murray Valley": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Benambra": {
+    "la": 5,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Mildura": {
+    "la": 8,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Seymour": {
+    "la": 7,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Benalla": {
+    "la": 0,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Bendigo West": {
+    "la": 0,
+    "lc_atl": 2,
+    "lc_btl": 22
+  },
+  "Gembrook": {
+    "la": 10,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Mornington": {
+    "la": 5,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Evelyn": {
+    "la": 5,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Bass": {
+    "la": 0,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Gippsland East": {
+    "la": 6,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Nepean": {
+    "la": 4,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Monbulk": {
+    "la": 7,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Morwell": {
+    "la": 7,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Narracan": {
+    "la": 5,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Hastings": {
+    "la": 8,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Gippsland South": {
+    "la": 4,
+    "lc_atl": 0,
+    "lc_btl": 21
+  },
+  "Kilsyth": {
+    "la": 7,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Mitcham": {
+    "la": 6,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Doncaster": {
+    "la": 0,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Ferntree Gully": {
+    "la": 6,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Eltham": {
+    "la": 4,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Box Hill": {
+    "la": 9,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Forest Hill": {
+    "la": 6,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Scoresby": {
+    "la": 4,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Bulleen": {
+    "la": 5,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Warrandyte": {
+    "la": 5,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Bayswater": {
+    "la": 40,
+    "lc_atl": 1,
+    "lc_btl": 15
+  },
+  "Thomastown": {
+    "la": 4,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Richmond": {
+    "la": 5,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Ivanhoe": {
+    "la": 5,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+    "Northcote" : { 
+    "la" : 12,
+    "lc_atl" : 8,
+    "lc_btl" : 25
+  },
+  "Brunswick": {
+    "la": 9,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Melbourne": {
+    "la": 7,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Mill Park": {
+    "la": 2,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Yan Yean": {
+    "la": 5,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Preston": {
+    "la": 3,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Bundoora": {
+    "la": 7,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Broadmeadows": {
+    "la": 0,
+    "lc_atl": 2,
+    "lc_btl": 35
+  },
+  "Kew": {
+    "la": 2,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Bentleigh": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Hawthorn": {
+    "la": 4,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Caulfield": {
+    "la": 5,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Burwood": {
+    "la": 0,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Sandringham": {
+    "la": 4,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Prahran": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Brighton": {
+    "la": 0,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Albert Park": {
+    "la": 12,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Oakleigh": {
+    "la": 6,
+    "lc_atl": 2,
+    "lc_btl": 27
+  },
+  "Malvern": {
+    "la": 0,
+    "lc_atl": 2,
+    "lc_btl": 27
+  }
+}

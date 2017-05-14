@@ -1,0 +1,9 @@
+{
+	"jksPath":"./release_demo/Peer4/certificates/evm.jks",
+	"TestEVMOne":{
+		"pubKeyEntry":{
+			"publicKey":"DHycq++x/t22rzV2zoXF6rGM1mxjoF8384WB4rcSpkja1LVurHymBWB2ntBjM3PqUU+7n/UQ0tpTgyCqaOoWvftrzl7FmrUXvegBlbKVURJJoU5EKmjTZnj1FMkCKBx9bQ8Ws0Ccxo/e/HPZGsIC/Vpv7Mf48oHN",
+			"g":"JdunZAeKwsFw3NbP7UI5eXLh2IsoOFp6Uvbq1hj01guV7QymbxsL4E4QBYuLWumnXyHXuP54Zba1EPXoLNg613xwu4VdgcJQCs+yj+f3DloG2xooOPx6LP3bYrnsMpSEPsTSWTIHWqeRzgVn/elLkj4/JNcp/E1T"
+		}
+	}
+}

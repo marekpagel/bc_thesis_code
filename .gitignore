@@ -1,0 +1,5 @@
+.idea/
+*.iml
+**/config/currentView
+*.class
+**/out/**/MANIFEST.MF

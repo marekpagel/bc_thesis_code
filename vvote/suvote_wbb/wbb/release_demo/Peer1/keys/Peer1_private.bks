@@ -1,0 +1,14 @@
+{
+	"jksPath":"./release_demo/Peer1/keys/Peer1keys.jks",
+	"Peer1_SigningSK2":{
+		"privateKey":{
+			"privatekey":"CztYB/1K6EHScYh2Eb0ZRVIdzKU="
+		},
+		"pubKeyEntry":{
+			"publicKey":"U/yBySWaQHUC/dQwhBo4NSJPqJgQ1kN4o0r9vfO2Dme7OQspFQUhkVmnjti2dWPnctGpz/r63K/oKHU2YuSl+ycOOVEke4hu1Rf7c1wqnR1QRgw5VJi4QBf/sa1EjpdMei7sA10qp04rXbYHHbgaqXL4FGpQCPRf",
+			"g":"NIO14Z3zPIr6QbIPRMgZkAxh7cIZWgNi4a18lP41G1av/Gd4z4p91kbv0u7PNrHz01GBcXx0u+XHM0Q1MLkLatsEExHKT3hRB8jN8Yo/920Uk3Z7ImxFdLqEVxIncVj7MgLnjCFsZmwW07H9Aj1PBPFpmplu9bWZ",
+			"partialPublicKey":"ZRvW/JSKx+ML4rZ5OvZCGEZQ4tMnBh/c48aLuwYtsGh7g3gJETTcB0YgwR040ojjBWXZSHFseBlIzMpPEZ+tbVtCcrHc84V9MXzPMEmRqlAgfcfv9MC/xgbDt5Rut2PmNQWFfkMpIRT7U0DdjFKNAc/o07p/sstQ",
+			"sequenceNo":0
+		}
+	}
+}

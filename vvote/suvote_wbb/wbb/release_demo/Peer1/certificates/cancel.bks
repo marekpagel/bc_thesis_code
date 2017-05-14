@@ -1,0 +1,10 @@
+{
+	"jksPath":"./release_demo/Peer1/certificates/cancel.jks",
+	"TestDeviceOne":{
+		"pubKeyEntry":{
+			"publicKey":"XhCj0wbduGlLcHl1Azz6lkD5NNkzkQqlxXWWij0csDmVa/9Sf6SD7Alne8AsOpFg5hqdANUTb3psz9H/JOyiP7AOXiBs88nrJ6Nj2cNZAqIiIDN61xLzZUyQXtUUwZOG6vXGER2cN0GJ2/FGoDzlVVjOHqttZ48v",
+			"g":"ZLdTh3DZ+nXbuCKGMvN7OeJ4hyhhe814QElmTgLI1CnE4qcvK1rrrRIMQe29fQ7AJBv6rTShTw3Fc02cB1iaDdcQBQI1bCA1Ou+fHI23dNFAQTTaB3eGupiVmp/hNak6VUdu6AQNqFEX0Iyp82nh5/mnBHRRZI88"
+		}
+		
+	}
+}

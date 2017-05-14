@@ -1,0 +1,21 @@
+{
+	"jksPath":"./release_demo/Peer2/certificates/vps.jks",
+	"TestDeviceOne":{
+		"pubKeyEntry":{
+			"publicKey":"XhCj0wbduGlLcHl1Azz6lkD5NNkzkQqlxXWWij0csDmVa/9Sf6SD7Alne8AsOpFg5hqdANUTb3psz9H/JOyiP7AOXiBs88nrJ6Nj2cNZAqIiIDN61xLzZUyQXtUUwZOG6vXGER2cN0GJ2/FGoDzlVVjOHqttZ48v",
+			"g":"ZLdTh3DZ+nXbuCKGMvN7OeJ4hyhhe814QElmTgLI1CnE4qcvK1rrrRIMQe29fQ7AJBv6rTShTw3Fc02cB1iaDdcQBQI1bCA1Ou+fHI23dNFAQTTaB3eGupiVmp/hNak6VUdu6AQNqFEX0Iyp82nh5/mnBHRRZI88"
+		}
+		
+	},	"SoakTestVPS2":{
+		"pubKeyEntry":{
+			"publicKey":"Oov3t31KbbfvuozFdBgTdQXl0CMUYkW4bgUuQpX7wJKnjp4c5vhRDWgeu9bCoz69ZSXhRJV14Se6W08aL4jqRSuTq+6uGCbVaiixE5osxFJNRdMiAsBGfJGY/yUhqUt0BlBQVl7FCoEUp7YUXTGSzzY/TXfG15UH",
+			"g":"ZHOJZkt87VvDijTFfD/QO7X/SDdGxQv+MXe4CmKiEHRR1GdU6nDHqAuC3VIlV9K9dwXJNsPF6GjOBwK9LIMrIMh/U9VscIIlda8dBMilg6E4okbh7zWF0nG4Ftpf7HkGU3WSURZZpGn+BoB6DUvAISkf/mDJ/yQ2"
+		}
+	},
+	"SoakTestVPS1":{
+		"pubKeyEntry":{
+			"publicKey":"H4uDqvtNx1XftwZ63yHKwJLjo1InmZHRlBx4xXaLiFVCXPSgpX/Qz1hVbYMywJo0RrN8iC7KROUoWRq6GPy3KZ7dnzmA1bgCX8GPfudK/g8y30EkfsqivUjhagYNDSYWI2ekcDJ0VYvOSMzhZqoxWqTlTOzUFgt2",
+			"g":"NATdj/c6rdnCY2nL6cP3FpkB5KVkGZBRAe6GzXm0Zwc+ymVdqYLuFjQYPq4RtNFvZONj/ILhIuEyf646CrYCsju7sbaEU548OMVG8y49sT5SgSpglbQ7hkRLBbk3TovOshRz+xC3GxSbwVb7qTDj/5GmDxHw+uI3"
+		}
+	}
+}
